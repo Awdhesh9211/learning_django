@@ -1,0 +1,721 @@
+[
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiVarity",
+        "importPath": "chai.models",
+        "description": "chai.models",
+        "isExtraImport": true,
+        "detail": "chai.models",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiReview",
+        "importPath": "chai.models",
+        "description": "chai.models",
+        "isExtraImport": true,
+        "detail": "chai.models",
+        "documentation": {}
+    },
+    {
+        "label": "Certificate",
+        "importPath": "chai.models",
+        "description": "chai.models",
+        "isExtraImport": true,
+        "detail": "chai.models",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "importPath": "chai.models",
+        "description": "chai.models",
+        "isExtraImport": true,
+        "detail": "chai.models",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiVarity",
+        "importPath": "chai.models",
+        "description": "chai.models",
+        "isExtraImport": true,
+        "detail": "chai.models",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "importPath": "chai.models",
+        "description": "chai.models",
+        "isExtraImport": true,
+        "detail": "chai.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "chai_detail",
+        "importPath": "chai.views",
+        "description": "chai.views",
+        "isExtraImport": true,
+        "detail": "chai.views",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiVerityForm",
+        "importPath": "chai.forms",
+        "description": "chai.forms",
+        "isExtraImport": true,
+        "detail": "chai.forms",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.migrations.0001_initial",
+        "description": "chaiaurDjango.chai.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ChaiVarity',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "chaiaurDjango.chai.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.migrations.0002_chaivarity_description_chaivarity_price",
+        "description": "chaiaurDjango.chai.migrations.0002_chaivarity_description_chaivarity_price",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chai', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='chaivarity',\n            name='description',\n            field=models.TextField(default=''),\n        ),",
+        "detail": "chaiaurDjango.chai.migrations.0002_chaivarity_description_chaivarity_price",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.migrations.0003_certificate_chaireview_store",
+        "description": "chaiaurDjango.chai.migrations.0003_certificate_chaireview_store",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chai', '0002_chaivarity_description_chaivarity_price'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Certificate',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "chaiaurDjango.chai.migrations.0003_certificate_chaireview_store",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiReviewInInline",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.admin",
+        "description": "chaiaurDjango.chai.admin",
+        "peekOfCode": "class ChaiReviewInInline(admin.TabularInline):\n    model=ChaiReview\n    extra=2\nclass ChaiVarityAdmin(admin.ModelAdmin):\n    list_display=('name','type','date_added')\n    inlines=[ChaiReviewInInline]\nclass StoreAdmin(admin.ModelAdmin):\n    list_display=('name','location')\n    filter_horizontal=('chai_varities',)\nclass ChaiCertificationAdmin(admin.ModelAdmin):",
+        "detail": "chaiaurDjango.chai.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiVarityAdmin",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.admin",
+        "description": "chaiaurDjango.chai.admin",
+        "peekOfCode": "class ChaiVarityAdmin(admin.ModelAdmin):\n    list_display=('name','type','date_added')\n    inlines=[ChaiReviewInInline]\nclass StoreAdmin(admin.ModelAdmin):\n    list_display=('name','location')\n    filter_horizontal=('chai_varities',)\nclass ChaiCertificationAdmin(admin.ModelAdmin):\n    list_display=('chai','certificate_number')\nadmin.site.register(ChaiVarity,ChaiVarityAdmin)\nadmin.site.register(Store,StoreAdmin)",
+        "detail": "chaiaurDjango.chai.admin",
+        "documentation": {}
+    },
+    {
+        "label": "StoreAdmin",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.admin",
+        "description": "chaiaurDjango.chai.admin",
+        "peekOfCode": "class StoreAdmin(admin.ModelAdmin):\n    list_display=('name','location')\n    filter_horizontal=('chai_varities',)\nclass ChaiCertificationAdmin(admin.ModelAdmin):\n    list_display=('chai','certificate_number')\nadmin.site.register(ChaiVarity,ChaiVarityAdmin)\nadmin.site.register(Store,StoreAdmin)\nadmin.site.register(Certificate,ChaiCertificationAdmin)",
+        "detail": "chaiaurDjango.chai.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiCertificationAdmin",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.admin",
+        "description": "chaiaurDjango.chai.admin",
+        "peekOfCode": "class ChaiCertificationAdmin(admin.ModelAdmin):\n    list_display=('chai','certificate_number')\nadmin.site.register(ChaiVarity,ChaiVarityAdmin)\nadmin.site.register(Store,StoreAdmin)\nadmin.site.register(Certificate,ChaiCertificationAdmin)",
+        "detail": "chaiaurDjango.chai.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiConfig",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.apps",
+        "description": "chaiaurDjango.chai.apps",
+        "peekOfCode": "class ChaiConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'chai'",
+        "detail": "chaiaurDjango.chai.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiVerityForm",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.forms",
+        "description": "chaiaurDjango.chai.forms",
+        "peekOfCode": "class ChaiVerityForm(forms.Form):\n    chai_varity=forms.ModelChoiceField(queryset=ChaiVarity.objects.all(),label=\"Select Chai Variety\")",
+        "detail": "chaiaurDjango.chai.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiVarity",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.models",
+        "description": "chaiaurDjango.chai.models",
+        "peekOfCode": "class ChaiVarity(models.Model):\n    CHAI_TYPE_CHOICE=[\n        ('ML',\"MASALA\"),\n        ('GR',\"GIGER\"),\n        ('KT',\"KIWI\"),\n        ('PL',\"PLAIN\"),\n        ('EL',\"ELAICHI\"),\n    ]\n    name=models.CharField(max_length=100)\n    image=models.ImageField(upload_to='chais/')",
+        "detail": "chaiaurDjango.chai.models",
+        "documentation": {}
+    },
+    {
+        "label": "ChaiReview",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.models",
+        "description": "chaiaurDjango.chai.models",
+        "peekOfCode": "class ChaiReview(models.Model):\n    chai=models.ForeignKey(ChaiVarity ,on_delete=models.CASCADE,related_name='review')\n    user=models.ForeignKey(User,on_delete=models.CASCADE)\n    rating=models.IntegerField()\n    comment=models.TextField()\n    date_added=models.DateTimeField(default=timezone.now)\n    def __str__(self):\n        return f'{self.user.username} review for {self.chai.name}'\n# Many To Many\nclass Store(models.Model):",
+        "detail": "chaiaurDjango.chai.models",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.models",
+        "description": "chaiaurDjango.chai.models",
+        "peekOfCode": "class Store(models.Model):\n    name=models.CharField(max_length=100)\n    location=models.CharField(max_length=100)\n    chai_varities=models.ManyToManyField(ChaiVarity,related_name='stores')\n    def __str__(self) :\n        return self.name\n#  One to One\nclass Certificate(models.Model):\n    chai=models.OneToOneField(ChaiVarity,on_delete=models.CASCADE,related_name=\"certificate\")\n    certificate_number=models.CharField(max_length=100)",
+        "detail": "chaiaurDjango.chai.models",
+        "documentation": {}
+    },
+    {
+        "label": "Certificate",
+        "kind": 6,
+        "importPath": "chaiaurDjango.chai.models",
+        "description": "chaiaurDjango.chai.models",
+        "peekOfCode": "class Certificate(models.Model):\n    chai=models.OneToOneField(ChaiVarity,on_delete=models.CASCADE,related_name=\"certificate\")\n    certificate_number=models.CharField(max_length=100)\n    issued_date=models.DateTimeField(default=timezone.now)\n    valid_until=models.DateTimeField()\n    def __str__(self) -> str:\n        return f'Certificate for {self.name.chai}'",
+        "detail": "chaiaurDjango.chai.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chai.urls",
+        "description": "chaiaurDjango.chai.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\",views.all_chai,name=\"chai_home\"),\n    path(\"<int:chai_id>/\",views.chai_detail,name=\"chai_detail\"),\n    path(\"chai_store/\",views.chai_store,name=\"chai_store\"),\n]",
+        "detail": "chaiaurDjango.chai.urls",
+        "documentation": {}
+    },
+    {
+        "label": "all_chai",
+        "kind": 2,
+        "importPath": "chaiaurDjango.chai.views",
+        "description": "chaiaurDjango.chai.views",
+        "peekOfCode": "def all_chai(request):\n    chais=ChaiVarity.objects.all()\n    return render(request,'chai/all_chai.html',{'chais':chais})\ndef chai_detail(request, chai_id):\n    chai=get_object_or_404(ChaiVarity , pk=chai_id)\n    return render(request, 'chai/detail.html',{'chai':chai})\ndef chai_store(request):\n    stores=None\n    if request.method == 'POST':\n        form =ChaiVerityForm(request.POST)",
+        "detail": "chaiaurDjango.chai.views",
+        "documentation": {}
+    },
+    {
+        "label": "chai_detail",
+        "kind": 2,
+        "importPath": "chaiaurDjango.chai.views",
+        "description": "chaiaurDjango.chai.views",
+        "peekOfCode": "def chai_detail(request, chai_id):\n    chai=get_object_or_404(ChaiVarity , pk=chai_id)\n    return render(request, 'chai/detail.html',{'chai':chai})\ndef chai_store(request):\n    stores=None\n    if request.method == 'POST':\n        form =ChaiVerityForm(request.POST)\n        if form.is_valid():\n            chai_varity=form.cleaned_data['chai_varity']\n            stores=Store.objects.filter(chai_varities=chai_varity)",
+        "detail": "chaiaurDjango.chai.views",
+        "documentation": {}
+    },
+    {
+        "label": "chai_store",
+        "kind": 2,
+        "importPath": "chaiaurDjango.chai.views",
+        "description": "chaiaurDjango.chai.views",
+        "peekOfCode": "def chai_store(request):\n    stores=None\n    if request.method == 'POST':\n        form =ChaiVerityForm(request.POST)\n        if form.is_valid():\n            chai_varity=form.cleaned_data['chai_varity']\n            stores=Store.objects.filter(chai_varities=chai_varity)\n    else:\n        form=ChaiVerityForm()\n    return render(request,'chai/chai_store.html',{'stores':stores ,'form':form})",
+        "detail": "chaiaurDjango.chai.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.asgi",
+        "description": "chaiaurDjango.chaiaurDjango.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "chaiaurDjango.chaiaurDjango.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-k)5h!kavri5v_9+w49csydrk74edr6tj*)06g-obt)ib6yg300'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-k)5h!kavri5v_9+w49csydrk74edr6tj*)06g-obt)ib6yg300'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'chai',",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'chai',\n    'tailwind',\n    'mytailwind'",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TAILWIND_APP_NAME",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "TAILWIND_APP_NAME = 'mytailwind'\nINTERNAL_IPS=['127.0.0.1']\nNPM_BIN_PATH= r\"C:\\Program Files\\nodejs\\npm.cmd\"\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    \"django_browser_reload.middleware.BrowserReloadMiddleware\"\n]",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "ROOT_URLCONF = 'chaiaurDjango.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            os.path.join(BASE_DIR,\"templates\")\n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            os.path.join(BASE_DIR,\"templates\")\n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'chaiaurDjango.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')\n# Default primary key field type",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.settings",
+        "description": "chaiaurDjango.chaiaurDjango.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "chaiaurDjango.chaiaurDjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.urls",
+        "description": "chaiaurDjango.chaiaurDjango.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path(\"\",views.home,name=\"home\"),\n    path(\"about/\",views.about,name=\"about\"),\n    path(\"contact/\",views.contact,name=\"contact\"),\n    path(\"chai/\",include('chai.urls')),\n    path('__reload__/',include(\"django_browser_reload.urls\"))\n] + static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)",
+        "detail": "chaiaurDjango.chaiaurDjango.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "chaiaurDjango.chaiaurDjango.views",
+        "description": "chaiaurDjango.chaiaurDjango.views",
+        "peekOfCode": "def home(request):\n    return render(request,\"pages/index.html\")\n# qna\ndef about(request):\n    return render(request,'pages/about.html')\ndef contact(request):\n    return render(request,'pages/contact.html')",
+        "detail": "chaiaurDjango.chaiaurDjango.views",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "chaiaurDjango.chaiaurDjango.views",
+        "description": "chaiaurDjango.chaiaurDjango.views",
+        "peekOfCode": "def about(request):\n    return render(request,'pages/about.html')\ndef contact(request):\n    return render(request,'pages/contact.html')",
+        "detail": "chaiaurDjango.chaiaurDjango.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact",
+        "kind": 2,
+        "importPath": "chaiaurDjango.chaiaurDjango.views",
+        "description": "chaiaurDjango.chaiaurDjango.views",
+        "peekOfCode": "def contact(request):\n    return render(request,'pages/contact.html')",
+        "detail": "chaiaurDjango.chaiaurDjango.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "chaiaurDjango.chaiaurDjango.wsgi",
+        "description": "chaiaurDjango.chaiaurDjango.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "chaiaurDjango.chaiaurDjango.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "MytailwindConfig",
+        "kind": 6,
+        "importPath": "chaiaurDjango.mytailwind.apps",
+        "description": "chaiaurDjango.mytailwind.apps",
+        "peekOfCode": "class MytailwindConfig(AppConfig):\n    name = 'mytailwind'",
+        "detail": "chaiaurDjango.mytailwind.apps",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "chaiaurDjango.manage",
+        "description": "chaiaurDjango.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'chaiaurDjango.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "chaiaurDjango.manage",
+        "documentation": {}
+    }
+]

@@ -1,0 +1,19 @@
+#    
+pip i uv
+uv env
+source ./env/bin/activate
+deactivate
+uv pip install django 
+
+
+# 1. create Project
+django-admin startproject chaiaurDjango
+
+# 2.run project 
+python manage.py runserver
+
+# 3.run server with defferent port 
+python manage.py runserver 3000
+
+# 4,SECURITY WARNING: don't run with debug turned on in production!
+DEBUG = True   if true default page false not show 
